@@ -1,5 +1,7 @@
 # spring-modulith-observability-reproducer
-Reproducer for conflict of Spring modulith observability and REST API interfaces
+Reproducer for conflict of Spring modulith observability and REST API interfaces,
+
+https://github.com/spring-projects/spring-modulith/issues/653
 
 # Summary
 
